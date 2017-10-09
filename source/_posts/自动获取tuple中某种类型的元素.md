@@ -2,7 +2,7 @@
 title: 自动获取tuple中某种类型的元素
 date: 2017-10-09 16:44:12
 tags:
-categories: cpluspluc
+categories: cplusplus
 ---
 ###  自动获得tuple中某种类型的元素代码学习分析
 
