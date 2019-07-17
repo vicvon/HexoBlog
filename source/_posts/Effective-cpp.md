@@ -1,5 +1,5 @@
 ---
-title: Effective cpp.md
+title: Effective cpp
 date: 2019-02-26 23:16:59
 tags: 
 categories: cplusplus
