@@ -5,8 +5,6 @@ tags:
 categories:
 ---
 
-### [译]25个C++ API设计错误和规避方法
-
 [原文链接](https://www.acodersjourney.com/top-25-cplusplus-api-design-mistakes-and-how-to-avoid-them/)
 
 对于许多C++开发者来说，他们可能把API设计的优先级排到第三或者第四。大多数拥抱C++的开发者都是因为它的原始能力和控制权。因此，性能和优化占据了他们百分之八十的时间。

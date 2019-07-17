@@ -4,7 +4,6 @@ date: 2019-02-26 23:16:59
 tags: 
 categories: cplusplus
 ---
-## Effective C++
 
 本文旨在回顾和记录《Effective C++》一书中的关于C++的55条建议，及每一条简要说明，结构同书中目录。所有的建议并非完全适用，但可以作为指导。
 
