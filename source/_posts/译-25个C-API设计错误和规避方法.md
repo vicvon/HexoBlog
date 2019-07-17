@@ -1,5 +1,5 @@
 ---
-title: '[译]25个C++ API设计错误和规避方法.md'
+title: '[译]25个C++ API设计错误和规避方法'
 date: 2019-07-17 22:38:30
 tags:
 categories:
